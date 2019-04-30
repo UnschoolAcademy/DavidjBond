@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="nice" horiz-adv-x="1000" >
+<font-face font-family="nice" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="adobe-photoshop" unicode="&#xe800;" d="M328 532c-24 0-41-3-49-5v-158c10-2 22-3 40-3 64 0 104 33 104 88-1 49-34 78-95 78z m-328 318v-1000h1000v1000h-1000z m493-520c-41-39-102-56-173-56-16 0-30 0-42 2v-191h-119v527c37 6 89 11 163 11 75 0 128-14 163-43 34-27 57-71 57-123 0-53-17-97-49-127z m180-253c-50 0-96 11-125 27l21 86c23-13 68-29 104-29 36 0 52 13 52 33 0 19-12 29-57 44-80 27-111 71-110 117 0 72 61 126 157 126 45 0 86-10 109-22l-21-83c-17 9-51 22-84 22-29 0-46-12-46-32 0-18 15-27 63-44 73-25 104-62 105-119 0-73-57-126-168-126z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

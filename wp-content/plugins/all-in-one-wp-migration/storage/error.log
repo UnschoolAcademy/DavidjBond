@@ -1,0 +1,9 @@
+Apr 30 2019 20:20:13
+{"Number":2,"Message":"unlink(C:\\wamp64\\www\\DavidjBond\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\q588yvsl85de\\filemap.list): Resource temporarily unavailable","File":"C:\\wamp64\\www\\DavidjBond\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":60}
+
+Apr 30 2019 20:20:13
+{"Number":2,"Message":"unlink(C:\\wamp64\\www\\DavidjBond\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\q588yvsl85de\\localhost-davidjbond-20190430-202011-118.wpress): Resource temporarily unavailable","File":"C:\\wamp64\\www\\DavidjBond\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":60}
+
+Apr 30 2019 20:20:13
+{"Number":2,"Message":"rmdir(C:\\wamp64\\www\\DavidjBond\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\q588yvsl85de): Directory not empty","File":"C:\\wamp64\\www\\DavidjBond\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":64}
+

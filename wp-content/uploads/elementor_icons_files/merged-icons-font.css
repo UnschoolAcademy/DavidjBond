@@ -1,0 +1,65 @@
+i.eci{ 
+display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+     }
+@font-face {
+ font-family: 'nice';
+  src: url('fontello-d74bd65f.zip/fontello-d74bd65f/font/nice.eot?155473932');
+  src: url('fontello-d74bd65f.zip/fontello-d74bd65f/font/nice.eot?155473932#iefix') format('embedded-opentype'),
+       url('fontello-d74bd65f.zip/fontello-d74bd65f/font/nice.woff2?155473932') format('woff2'),
+       url('fontello-d74bd65f.zip/fontello-d74bd65f/font/nice.woff?155473932') format('woff'),
+       url('fontello-d74bd65f.zip/fontello-d74bd65f/font/nice.ttf?155473932') format('truetype'),
+       url('fontello-d74bd65f.zip/fontello-d74bd65f/font/nice.svg?155473932#nice') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.nice-adobe-photoshop::before { content: '\e800'; font-family: 'nice'; }
+
+
+@font-face {
+ font-family: 'video';
+  src: url('fontello-82291a9b.zip/fontello-82291a9b/font/video.eot?648147823');
+  src: url('fontello-82291a9b.zip/fontello-82291a9b/font/video.eot?648147823#iefix') format('embedded-opentype'),
+       url('fontello-82291a9b.zip/fontello-82291a9b/font/video.woff2?648147823') format('woff2'),
+       url('fontello-82291a9b.zip/fontello-82291a9b/font/video.woff?648147823') format('woff'),
+       url('fontello-82291a9b.zip/fontello-82291a9b/font/video.ttf?648147823') format('truetype'),
+       url('fontello-82291a9b.zip/fontello-82291a9b/font/video.svg?648147823#video') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.video-video::before { content: '\e801'; font-family: 'video'; }
+
+
+@font-face {
+ font-family: 'editing';
+  src: url('fontello-7ca3c4a5.zip/fontello-7ca3c4a5/font/editing.eot?193627045');
+  src: url('fontello-7ca3c4a5.zip/fontello-7ca3c4a5/font/editing.eot?193627045#iefix') format('embedded-opentype'),
+       url('fontello-7ca3c4a5.zip/fontello-7ca3c4a5/font/editing.woff2?193627045') format('woff2'),
+       url('fontello-7ca3c4a5.zip/fontello-7ca3c4a5/font/editing.woff?193627045') format('woff'),
+       url('fontello-7ca3c4a5.zip/fontello-7ca3c4a5/font/editing.ttf?193627045') format('truetype'),
+       url('fontello-7ca3c4a5.zip/fontello-7ca3c4a5/font/editing.svg?193627045#editing') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.editing-adobe-lightroom::before { content: '\e800'; font-family: 'editing'; }
+.eci.editing-icons8-davinci-resolve::before { content: '\e803'; font-family: 'editing'; }
+
+
+@font-face {
+ font-family: 'movie';
+  src: url('fontello-c2428541.zip/fontello-c2428541/font/movie.eot?328074305');
+  src: url('fontello-c2428541.zip/fontello-c2428541/font/movie.eot?328074305#iefix') format('embedded-opentype'),
+       url('fontello-c2428541.zip/fontello-c2428541/font/movie.woff2?328074305') format('woff2'),
+       url('fontello-c2428541.zip/fontello-c2428541/font/movie.woff?328074305') format('woff'),
+       url('fontello-c2428541.zip/fontello-c2428541/font/movie.ttf?328074305') format('truetype'),
+       url('fontello-c2428541.zip/fontello-c2428541/font/movie.svg?328074305#movie') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.movie-movie-symbol-of-video-camera::before { content: '\e804'; font-family: 'movie'; }
+
+
